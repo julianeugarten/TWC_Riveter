@@ -1,4 +1,4 @@
-# TWC: Using Riveter NLP to Map Gendered Power Dynamics in Hades/Persephone Fanfiction 
+# TWC: Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction 
 
 This repository contains supplementary code and data for the paper 'Using Riveter NLP to Map Gendered Power Dynamics in Hades/Persephone Fanfiction ' which is forthcoming in _Transformative Works and Cultures._ 
 
