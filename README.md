@@ -7,5 +7,6 @@ Specifically, it contains:
 - One Jupyter Notebook you can use to explore the models. Note that you need to install Riveter to be able to run this notebook. [You can find the code on Github here](https://github.com/maartensap/riveter-nlp). 
 
 
-The power- and agency-lexicons were created by Sap et al. [Read more about these lexicons here](https://aclanthology.org/D17-1247/). 
+The power- and agency-lexicons were created by Sap et al. [Read more about these lexicons here](https://aclanthology.org/D17-1247/).  
+
 Riveter was created by Antoniak et al. [Read more about Riveter here](https://aclanthology.org/2023.acl-demo.36/).
